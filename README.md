@@ -1,16 +1,24 @@
 # hello_world
 
-A new Flutter project.
+SILVIA NUR MAHMUDAH
 
-## Getting Started
+## Praktikum 2 langkah 12
+![Screenshot hello_world](images/01.png)
 
-This project is a starting point for a Flutter application.
+## Praktikum 3 langkah 1
+![Screenshot hello_world](images/02.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Praktikum 3 langkah 2
+![Screenshot hello_world](images/03.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Praktikum 4 langkah 3
+![Screenshot hello_world](images/04.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Praktikum 4 langkah 4
+![Screenshot hello_world](images/05.jpg)
+
+## Praktikum 4 langkah 5
+![Screenshot hello_world](images/06.jpg)
+
+## Praktikum 4 langkah 6
+![Screenshot hello_world](images/07.jpg)
